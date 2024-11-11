@@ -24,7 +24,6 @@
 ### 🎓 Education
 - **Vellore Institute of Technology (VIT)** - Chennai, Tamil Nadu  
   B.Tech in Computer Science, specializing in AI and ML  
-  **CGPA**: 9.67  
   **Relevant Coursework**: Data Structures & Algorithms, OOP, DBMS, Machine Learning, Computer Networks, Web Programming, Discrete Mathematics, Computer Architecture
 <!---
 saisaranya2005/saisaranya2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
