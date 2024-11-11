@@ -14,11 +14,11 @@
 ### 🔥 Skills & Technologies
 
 - **👨‍💻 Languages**: Java, Python, JavaScript, SQL, C, C++, R
-- 
+  
 - **📚 Frameworks & Libraries**: TensorFlow, Scikit-learn, Keras, OpenCV, React.js, Tailwind CSS, HTML, CSS
-- 
+  
 - **🛠 Tools**: Git, VSCode, Eclipse, Apache NetBeans, ProjectLibre, Canvas
-- 
+  
 - **🗄️ Databases**: MySQL, AWS DynamoDB, Oracle SQL
 
 ### 🎓 Education
